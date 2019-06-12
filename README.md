@@ -1,3 +1,3 @@
 # MA3_YMU762_AND_DISCOVERY_F407VG
 
-![Screenshot](/BODY AND BODY MA3_YMU762 with DISCOVERY F407VG.jpg)
+![Screenshot](/CIRCUIT.jpg)
