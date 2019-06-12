@@ -1,0 +1,969 @@
+# depslib dependency file v1.0
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal.c
+	"stm32f4xx_hal.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal.h
+	"stm32f4xx_hal_conf.h"
+
+1537725690 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\inc\stm32f4xx_hal_conf.h
+	"main.h"
+	"stm32f4xx_hal_rcc.h"
+	"stm32f4xx_hal_exti.h"
+	"stm32f4xx_hal_gpio.h"
+	"stm32f4xx_hal_dma.h"
+	"stm32f4xx_hal_cortex.h"
+	"stm32f4xx_hal_adc.h"
+	"stm32f4xx_hal_can.h"
+	"stm32f4xx_hal_crc.h"
+	"stm32f4xx_hal_cryp.h"
+	"stm32f4xx_hal_dma2d.h"
+	"stm32f4xx_hal_dac.h"
+	"stm32f4xx_hal_dcmi.h"
+	"stm32f4xx_hal_eth.h"
+	"stm32f4xx_hal_flash.h"
+	"stm32f4xx_hal_sram.h"
+	"stm32f4xx_hal_nor.h"
+	"stm32f4xx_hal_nand.h"
+	"stm32f4xx_hal_pccard.h"
+	"stm32f4xx_hal_sdram.h"
+	"stm32f4xx_hal_hash.h"
+	"stm32f4xx_hal_i2c.h"
+	"stm32f4xx_hal_i2s.h"
+	"stm32f4xx_hal_iwdg.h"
+	"stm32f4xx_hal_ltdc.h"
+	"stm32f4xx_hal_pwr.h"
+	"stm32f4xx_hal_rng.h"
+	"stm32f4xx_hal_rtc.h"
+	"stm32f4xx_hal_sai.h"
+	"stm32f4xx_hal_sd.h"
+	"stm32f4xx_hal_mmc.h"
+	"stm32f4xx_hal_spi.h"
+	"stm32f4xx_hal_tim.h"
+	"stm32f4xx_hal_uart.h"
+	"stm32f4xx_hal_usart.h"
+	"stm32f4xx_hal_irda.h"
+	"stm32f4xx_hal_smartcard.h"
+	"stm32f4xx_hal_wwdg.h"
+	"stm32f4xx_hal_pcd.h"
+	"stm32f4xx_hal_hcd.h"
+	"stm32f4xx_hal_dsi.h"
+	"stm32f4xx_hal_qspi.h"
+	"stm32f4xx_hal_cec.h"
+	"stm32f4xx_hal_fmpi2c.h"
+	"stm32f4xx_hal_spdifrx.h"
+	"stm32f4xx_hal_dfsdm.h"
+	"stm32f4xx_hal_lptim.h"
+
+1537793464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\inc\main.h
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_rcc.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_rcc_ex.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_def.h
+	"stm32f4xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1537726715 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\device\st\stm32f4xx\include\stm32f4xx.h
+	"stm32f405xx.h"
+	"stm32f415xx.h"
+	"stm32f407xx.h"
+	"stm32f417xx.h"
+	"stm32f427xx.h"
+	"stm32f437xx.h"
+	"stm32f429xx.h"
+	"stm32f439xx.h"
+	"stm32f401xc.h"
+	"stm32f401xe.h"
+	"stm32f410tx.h"
+	"stm32f410cx.h"
+	"stm32f410rx.h"
+	"stm32f411xe.h"
+	"stm32f446xx.h"
+	"stm32f469xx.h"
+	"stm32f479xx.h"
+	"stm32f412cx.h"
+	"stm32f412zx.h"
+	"stm32f412rx.h"
+	"stm32f412vx.h"
+	"stm32f413xx.h"
+	"stm32f423xx.h"
+	"stm32f4xx_hal.h"
+
+1537553441 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\device\st\stm32f4xx\include\stm32f407xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+
+1537777216 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\include\core_cm4.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\include\cmsis_armcc.h
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\include\cmsis_armcc_v6.h
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\include\cmsis_gcc.h
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\include\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1537553441 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\cmsis\device\st\stm32f4xx\include\system_stm32f4xx.h
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_rcc_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_gpio.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_gpio_ex.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_gpio_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_dma.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_dma_ex.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_dma_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_cortex.h
+	"stm32f4xx_hal_def.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_flash_ex.h"
+	"stm32f4xx_hal_flash_ramfunc.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537553464 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash_ramfunc.h
+	"stm32f4xx_hal_def.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_sram.h
+	"stm32f4xx_ll_fsmc.h"
+	"stm32f4xx_ll_fmc.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_ll_fsmc.h
+	"stm32f4xx_hal_def.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pwr.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_pwr_ex.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pwr_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_tim.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_tim_ex.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_tim_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pcd.h
+	"stm32f4xx_ll_usb.h"
+	"stm32f4xx_hal_pcd_ex.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_ll_usb.h
+	"stm32f4xx_hal_def.h"
+
+1537553465 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pcd_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_cortex.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_dma.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_dma_ex.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash_ex.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash_ramfunc.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_gpio.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pcd.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pcd_ex.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pwr.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pwr_ex.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_rcc.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_rcc_ex.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_sram.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_tim.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_tim_ex.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_ll_fsmc.c
+	"stm32f4xx_hal.h"
+
+1537553465 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\drivers\stm32f4xx_hal_driver\src\stm32f4xx_ll_usb.c
+	"stm32f4xx_hal.h"
+
+1537553468 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\class\cdc\src\usbd_cdc.c
+	"usbd_cdc.h"
+	"usbd_desc.h"
+	"usbd_ctlreq.h"
+
+1537553468 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\class\cdc\inc\usbd_cdc.h
+	"usbd_ioreq.h"
+
+1537553468 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\core\inc\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1537553468 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\core\inc\usbd_def.h
+	"usbd_conf.h"
+
+1537725689 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\inc\usbd_conf.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+
+1537553468 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\core\inc\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1537553468 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\core\inc\usbd_ctlreq.h
+	"usbd_def.h"
+
+1537725689 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\inc\usbd_desc.h
+	"usbd_def.h"
+
+1537553468 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\core\src\usbd_core.c
+	"usbd_core.h"
+
+1537553468 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\core\src\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1537553468 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\middlewares\st\stm32_usb_device_library\core\src\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1539023351 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\main.c
+	"main.h"
+	"stm32f4xx_hal.h"
+	"usb_device.h"
+	"mamachdep.h"
+	"masound.h"
+	"MMF.h"
+
+1537725689 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\inc\usb_device.h
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+	"usbd_def.h"
+
+1537553442 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\startup_stm32f407xx.s
+
+1537725690 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\stm32f4xx_hal_msp.c
+	"stm32f4xx_hal.h"
+
+1537725689 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\stm32f4xx_it.c
+	"stm32f4xx_hal.h"
+	"stm32f4xx.h"
+	"stm32f4xx_it.h"
+
+1537725689 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\inc\stm32f4xx_it.h
+	"stm32f4xx_hal.h"
+	"main.h"
+
+1537553442 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1537725689 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\usb_device.c
+	"usb_device.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_cdc.h"
+	"usbd_cdc_if.h"
+
+1537981012 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\inc\usbd_cdc_if.h
+	"usbd_cdc.h"
+
+1537980997 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\usbd_cdc_if.c
+	"usbd_cdc_if.h"
+
+1537725689 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\usbd_conf.c
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+	"usbd_def.h"
+	"usbd_core.h"
+
+1537725689 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\src\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1050994036 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\madebug.c
+	"mamachdep.h"
+	"madebug.h"
+	"madefs.h"
+
+1539023137 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mamachdep.h
+
+1537354976 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\madebug.h
+	<stdio.h>
+	<assert.h>
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\madefs.h
+
+1552839745 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\madevdrv.c
+	"madevdrv.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\madevdrv.h
+	"mamachdep.h"
+	"madefs.h"
+	"madebug.h"
+	"masndseq.h"
+	"masnddrv.h"
+
+1528106420 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\masndseq.h
+	"mamachdep.h"
+	"madefs.h"
+	"madebug.h"
+	"masnddrv.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\masnddrv.h
+	"mamachdep.h"
+	"madebug.h"
+	"maresmgr.h"
+	"masndseq.h"
+	"madevdrv.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\maresmgr.h
+	"mamachdep.h"
+	"madebug.h"
+	"madevdrv.h"
+	"madefs.h"
+
+1050994034 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\malib.c
+	"malib.h"
+	"mammfcnv.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\malib.h
+	"madefs.h"
+	"mamachdep.h"
+
+1050998862 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mammfcnv.h
+
+1539252645 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mamachdep.c
+	"mamachdep.h"
+	"madefs.h"
+
+1050994034 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mamidcnv.c
+	"mamidcnv.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mamidcnv.h
+	"mamachdep.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"madebug.h"
+
+1050994036 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mammfcnv.c
+	"mamachdep.h"
+	"mammfcnv.h"
+	"madefs.h"
+	"masnddrv.h"
+	"maresmgr.h"
+
+1050994036 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\maphrcnv.c
+	"maphrcnv.h"
+	"malib.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\maphrcnv.h
+	"mamachdep.h"
+	"madebug.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"mammfcnv.h"
+	"maphrwrp.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\maphrwrp.h
+
+1050994036 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\maresmgr.c
+	"maresmgr.h"
+
+1050994034 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\marmdcnv.c
+	"marmdcnv.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\marmdcnv.h
+	"mamachdep.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"madebug.h"
+
+1050994034 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\masmwmain.c
+	"masound.h"
+	"maphrwrp.h"
+	"mamachdep.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\masound.h
+
+1050994036 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\masnddrv.c
+	"masnddrv.h"
+	"matable.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\matable.h
+
+1528106956 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\masndseq.c
+	"masndseq.h"
+	"macnvprf.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\macnvprf.h
+	"mammfcnv.h"
+	"maphrcnv.h"
+	"marmdcnv.h"
+	"mamidcnv.h"
+	"mawavcnv.h"
+
+1050994036 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mawavcnv.h
+	"mamachdep.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"madebug.h"
+
+1050994034 source:d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\ymu762\mawavcnv.c
+	"mawavcnv.h"
+
+1553717231 d:\_kb_stuff\moje_projekty\sw\embitz_stm32f4_project_ymu262_with_usb_cubemx\ymu262\mmf\mmf.h
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal.c
+	"stm32f4xx_hal.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal.h
+	"stm32f4xx_hal_conf.h"
+
+1537729290 c:\em_projects\ma3_ymu762\inc\stm32f4xx_hal_conf.h
+	"main.h"
+	"stm32f4xx_hal_rcc.h"
+	"stm32f4xx_hal_exti.h"
+	"stm32f4xx_hal_gpio.h"
+	"stm32f4xx_hal_dma.h"
+	"stm32f4xx_hal_cortex.h"
+	"stm32f4xx_hal_adc.h"
+	"stm32f4xx_hal_can.h"
+	"stm32f4xx_hal_crc.h"
+	"stm32f4xx_hal_cryp.h"
+	"stm32f4xx_hal_dma2d.h"
+	"stm32f4xx_hal_dac.h"
+	"stm32f4xx_hal_dcmi.h"
+	"stm32f4xx_hal_eth.h"
+	"stm32f4xx_hal_flash.h"
+	"stm32f4xx_hal_sram.h"
+	"stm32f4xx_hal_nor.h"
+	"stm32f4xx_hal_nand.h"
+	"stm32f4xx_hal_pccard.h"
+	"stm32f4xx_hal_sdram.h"
+	"stm32f4xx_hal_hash.h"
+	"stm32f4xx_hal_i2c.h"
+	"stm32f4xx_hal_i2s.h"
+	"stm32f4xx_hal_iwdg.h"
+	"stm32f4xx_hal_ltdc.h"
+	"stm32f4xx_hal_pwr.h"
+	"stm32f4xx_hal_rng.h"
+	"stm32f4xx_hal_rtc.h"
+	"stm32f4xx_hal_sai.h"
+	"stm32f4xx_hal_sd.h"
+	"stm32f4xx_hal_mmc.h"
+	"stm32f4xx_hal_spi.h"
+	"stm32f4xx_hal_tim.h"
+	"stm32f4xx_hal_uart.h"
+	"stm32f4xx_hal_usart.h"
+	"stm32f4xx_hal_irda.h"
+	"stm32f4xx_hal_smartcard.h"
+	"stm32f4xx_hal_wwdg.h"
+	"stm32f4xx_hal_pcd.h"
+	"stm32f4xx_hal_hcd.h"
+	"stm32f4xx_hal_dsi.h"
+	"stm32f4xx_hal_qspi.h"
+	"stm32f4xx_hal_cec.h"
+	"stm32f4xx_hal_fmpi2c.h"
+	"stm32f4xx_hal_spdifrx.h"
+	"stm32f4xx_hal_dfsdm.h"
+	"stm32f4xx_hal_lptim.h"
+
+1537797064 c:\em_projects\ma3_ymu762\inc\main.h
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_rcc.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_rcc_ex.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_def.h
+	"stm32f4xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1537730315 c:\em_projects\ma3_ymu762\drivers\cmsis\device\st\stm32f4xx\include\stm32f4xx.h
+	"stm32f405xx.h"
+	"stm32f415xx.h"
+	"stm32f407xx.h"
+	"stm32f417xx.h"
+	"stm32f427xx.h"
+	"stm32f437xx.h"
+	"stm32f429xx.h"
+	"stm32f439xx.h"
+	"stm32f401xc.h"
+	"stm32f401xe.h"
+	"stm32f410tx.h"
+	"stm32f410cx.h"
+	"stm32f410rx.h"
+	"stm32f411xe.h"
+	"stm32f446xx.h"
+	"stm32f469xx.h"
+	"stm32f479xx.h"
+	"stm32f412cx.h"
+	"stm32f412zx.h"
+	"stm32f412rx.h"
+	"stm32f412vx.h"
+	"stm32f413xx.h"
+	"stm32f423xx.h"
+	"stm32f4xx_hal.h"
+
+1537557041 c:\em_projects\ma3_ymu762\drivers\cmsis\device\st\stm32f4xx\include\stm32f407xx.h
+	"core_cm4.h"
+	"system_stm32f4xx.h"
+	<stdint.h>
+
+1537780816 c:\em_projects\ma3_ymu762\drivers\cmsis\include\core_cm4.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+	"core_cmSimd.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\cmsis\include\cmsis_armcc.h
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\cmsis\include\cmsis_armcc_v6.h
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\cmsis\include\cmsis_gcc.h
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\cmsis\include\core_cmsimd.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1537557041 c:\em_projects\ma3_ymu762\drivers\cmsis\device\st\stm32f4xx\include\system_stm32f4xx.h
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_rcc_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_gpio.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_gpio_ex.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_gpio_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_dma.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_dma_ex.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_dma_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_cortex.h
+	"stm32f4xx_hal_def.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_flash_ex.h"
+	"stm32f4xx_hal_flash_ramfunc.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537557064 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_flash_ramfunc.h
+	"stm32f4xx_hal_def.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_sram.h
+	"stm32f4xx_ll_fsmc.h"
+	"stm32f4xx_ll_fmc.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_ll_fsmc.h
+	"stm32f4xx_hal_def.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pwr.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_pwr_ex.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pwr_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_tim.h
+	"stm32f4xx_hal_def.h"
+	"stm32f4xx_hal_tim_ex.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_tim_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pcd.h
+	"stm32f4xx_ll_usb.h"
+	"stm32f4xx_hal_pcd_ex.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_ll_usb.h
+	"stm32f4xx_hal_def.h"
+
+1537557065 c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\inc\stm32f4xx_hal_pcd_ex.h
+	"stm32f4xx_hal_def.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_cortex.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_dma.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_dma_ex.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash_ex.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_flash_ramfunc.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_gpio.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pcd.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pcd_ex.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pwr.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_pwr_ex.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_rcc.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_rcc_ex.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_sram.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_tim.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_hal_tim_ex.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_ll_fsmc.c
+	"stm32f4xx_hal.h"
+
+1537557065 source:c:\em_projects\ma3_ymu762\drivers\stm32f4xx_hal_driver\src\stm32f4xx_ll_usb.c
+	"stm32f4xx_hal.h"
+
+1537557068 source:c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\class\cdc\src\usbd_cdc.c
+	"usbd_cdc.h"
+	"usbd_desc.h"
+	"usbd_ctlreq.h"
+
+1537557068 c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\class\cdc\inc\usbd_cdc.h
+	"usbd_ioreq.h"
+
+1537557068 c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\core\inc\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1537557068 c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\core\inc\usbd_def.h
+	"usbd_conf.h"
+
+1537729289 c:\em_projects\ma3_ymu762\inc\usbd_conf.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+
+1537557068 c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\core\inc\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1537557068 c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\core\inc\usbd_ctlreq.h
+	"usbd_def.h"
+
+1537729289 c:\em_projects\ma3_ymu762\inc\usbd_desc.h
+	"usbd_def.h"
+
+1537557068 source:c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\core\src\usbd_core.c
+	"usbd_core.h"
+
+1537557068 source:c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\core\src\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1537557068 source:c:\em_projects\ma3_ymu762\middlewares\st\stm32_usb_device_library\core\src\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1539026951 source:c:\em_projects\ma3_ymu762\src\main.c
+	"main.h"
+	"stm32f4xx_hal.h"
+	"usb_device.h"
+	"mamachdep.h"
+	"masound.h"
+	"MMF.h"
+
+1537729289 c:\em_projects\ma3_ymu762\inc\usb_device.h
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+	"usbd_def.h"
+
+1539026737 c:\em_projects\ma3_ymu762\ymu762\mamachdep.h
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\masound.h
+
+1555158015 c:\em_projects\ma3_ymu762\mmf\mmf.h
+
+1537557042 source:c:\em_projects\ma3_ymu762\src\startup_stm32f407xx.s
+
+1537729290 source:c:\em_projects\ma3_ymu762\src\stm32f4xx_hal_msp.c
+	"stm32f4xx_hal.h"
+
+1537729289 source:c:\em_projects\ma3_ymu762\src\stm32f4xx_it.c
+	"stm32f4xx_hal.h"
+	"stm32f4xx.h"
+	"stm32f4xx_it.h"
+
+1537729289 c:\em_projects\ma3_ymu762\inc\stm32f4xx_it.h
+	"stm32f4xx_hal.h"
+	"main.h"
+
+1537557042 source:c:\em_projects\ma3_ymu762\src\system_stm32f4xx.c
+	"stm32f4xx.h"
+
+1537729289 source:c:\em_projects\ma3_ymu762\src\usb_device.c
+	"usb_device.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_cdc.h"
+	"usbd_cdc_if.h"
+
+1537984612 c:\em_projects\ma3_ymu762\inc\usbd_cdc_if.h
+	"usbd_cdc.h"
+
+1537984597 source:c:\em_projects\ma3_ymu762\src\usbd_cdc_if.c
+	"usbd_cdc_if.h"
+
+1537729289 source:c:\em_projects\ma3_ymu762\src\usbd_conf.c
+	"stm32f4xx.h"
+	"stm32f4xx_hal.h"
+	"usbd_def.h"
+	"usbd_core.h"
+
+1537729289 source:c:\em_projects\ma3_ymu762\src\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1050997636 source:c:\em_projects\ma3_ymu762\ymu762\madebug.c
+	"mamachdep.h"
+	"madebug.h"
+	"madefs.h"
+
+1537358576 c:\em_projects\ma3_ymu762\ymu762\madebug.h
+	<stdio.h>
+	<assert.h>
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\madefs.h
+
+1552843345 source:c:\em_projects\ma3_ymu762\ymu762\madevdrv.c
+	"madevdrv.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\madevdrv.h
+	"mamachdep.h"
+	"madefs.h"
+	"madebug.h"
+	"masndseq.h"
+	"masnddrv.h"
+
+1528110020 c:\em_projects\ma3_ymu762\ymu762\masndseq.h
+	"mamachdep.h"
+	"madefs.h"
+	"madebug.h"
+	"masnddrv.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\masnddrv.h
+	"mamachdep.h"
+	"madebug.h"
+	"maresmgr.h"
+	"masndseq.h"
+	"madevdrv.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\maresmgr.h
+	"mamachdep.h"
+	"madebug.h"
+	"madevdrv.h"
+	"madefs.h"
+
+1050997634 source:c:\em_projects\ma3_ymu762\ymu762\malib.c
+	"malib.h"
+	"mammfcnv.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\malib.h
+	"madefs.h"
+	"mamachdep.h"
+
+1051002462 c:\em_projects\ma3_ymu762\ymu762\mammfcnv.h
+
+1539256245 source:c:\em_projects\ma3_ymu762\ymu762\mamachdep.c
+	"mamachdep.h"
+	"madefs.h"
+
+1050997634 source:c:\em_projects\ma3_ymu762\ymu762\mamidcnv.c
+	"mamidcnv.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\mamidcnv.h
+	"mamachdep.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"madebug.h"
+
+1050997636 source:c:\em_projects\ma3_ymu762\ymu762\mammfcnv.c
+	"mamachdep.h"
+	"mammfcnv.h"
+	"madefs.h"
+	"masnddrv.h"
+	"maresmgr.h"
+
+1050997636 source:c:\em_projects\ma3_ymu762\ymu762\maphrcnv.c
+	"maphrcnv.h"
+	"malib.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\maphrcnv.h
+	"mamachdep.h"
+	"madebug.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"mammfcnv.h"
+	"maphrwrp.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\maphrwrp.h
+
+1050997636 source:c:\em_projects\ma3_ymu762\ymu762\maresmgr.c
+	"maresmgr.h"
+
+1050997634 source:c:\em_projects\ma3_ymu762\ymu762\marmdcnv.c
+	"marmdcnv.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\marmdcnv.h
+	"mamachdep.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"madebug.h"
+
+1050997634 source:c:\em_projects\ma3_ymu762\ymu762\masmwmain.c
+	"masound.h"
+	"maphrwrp.h"
+	"mamachdep.h"
+
+1050997636 source:c:\em_projects\ma3_ymu762\ymu762\masnddrv.c
+	"masnddrv.h"
+	"matable.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\matable.h
+
+1528110556 source:c:\em_projects\ma3_ymu762\ymu762\masndseq.c
+	"masndseq.h"
+	"macnvprf.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\macnvprf.h
+	"mammfcnv.h"
+	"maphrcnv.h"
+	"marmdcnv.h"
+	"mamidcnv.h"
+	"mawavcnv.h"
+
+1050997636 c:\em_projects\ma3_ymu762\ymu762\mawavcnv.h
+	"mamachdep.h"
+	"masnddrv.h"
+	"maresmgr.h"
+	"madebug.h"
+
+1050997634 source:c:\em_projects\ma3_ymu762\ymu762\mawavcnv.c
+	"mawavcnv.h"
+

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17120" topLine="225" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3949" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\Include\arm_math.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="59579" topLine="1732" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\Include\core_cm4.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10484" topLine="258" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12196" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11165" topLine="231" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pcd.h" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13746" topLine="271" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c" open="0" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15194" topLine="380" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16415" topLine="370" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14953" topLine="446" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="474" topLine="1086" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38658" topLine="1270" />
+		</Cursor>
+	</File>
+	<File name="inc\main.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3677" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="inc\stm32f4xx_it.h" open="0" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2645" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="inc\usbd_cdc_if.h" open="0" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4550" topLine="110" />
+		</Cursor>
+	</File>
+	<File name="Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Inc\usbd_cdc.h" open="0" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5021" topLine="132" />
+		</Cursor>
+	</File>
+	<File name="Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Src\usbd_cdc.c" open="0" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19318" topLine="517" />
+		</Cursor>
+	</File>
+	<File name="Middlewares\ST\STM32_USB_Device_Library\Core\Inc\usbd_def.h" open="0" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7363" topLine="159" />
+		</Cursor>
+	</File>
+	<File name="Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8794" topLine="379" />
+		</Cursor>
+	</File>
+	<File name="MMF\MMF.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="200187" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="1360" />
+			<Collapse line="2688" />
+			<Collapse line="3210" />
+		</Folding>
+	</File>
+	<File name="src\main.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4392" topLine="182" />
+		</Cursor>
+	</File>
+	<File name="src\startup_stm32f407xx.s" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3593" topLine="77" />
+		</Cursor>
+	</File>
+	<File name="src\stm32f4xx_it.c" open="0" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3108" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="src\usbd_cdc_if.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10355" topLine="247" />
+		</Cursor>
+	</File>
+	<File name="src\usbd_conf.c" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18819" topLine="658" />
+		</Cursor>
+	</File>
+	<File name="YMU762\ma3sound.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="417" topLine="103" />
+		</Cursor>
+	</File>
+	<File name="YMU762\madebug.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12059" topLine="524" />
+		</Cursor>
+	</File>
+	<File name="YMU762\madebug.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2924" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="YMU762\madefs.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4251" topLine="127" />
+		</Cursor>
+	</File>
+	<File name="YMU762\madevdrv.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8581" topLine="242" />
+		</Cursor>
+	</File>
+	<File name="YMU762\madevdrv.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2863" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="YMU762\malib.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22724" topLine="579" />
+		</Cursor>
+	</File>
+	<File name="YMU762\mamachdep.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3042" topLine="101" />
+		</Cursor>
+	</File>
+	<File name="YMU762\mamachdep.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="907" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="YMU762\mamidcnv.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="109728" topLine="3086" />
+		</Cursor>
+	</File>
+	<File name="YMU762\mammfcnv.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="61877" topLine="1729" />
+		</Cursor>
+	</File>
+	<File name="YMU762\maphrcnv.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36875" topLine="1145" />
+		</Cursor>
+	</File>
+	<File name="YMU762\marmdcnv.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4679" topLine="114" />
+		</Cursor>
+	</File>
+	<File name="YMU762\masmwmain.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8673" topLine="324" />
+		</Cursor>
+	</File>
+	<File name="YMU762\masnddrv.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="43496" topLine="1524" />
+		</Cursor>
+	</File>
+	<File name="YMU762\masndseq.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="483" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="YMU762\masound.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4028" topLine="57" />
+		</Cursor>
+	</File>
+</EmBitz_layout_file>
